@@ -22,7 +22,7 @@ E – Extras ví dụ Few-shot :
 
 **VÍ DỤ 1**
 
-Input email:
+email ứng tuyển :
 
 "Tôi tên NGUYỄN VĂN AN, ứng tuyển Backend Developer. Tôi có 2 năm kinh nghiệm, sử dụng Python, SQL, FastAPI. SĐT 0912345678, email an@gmail.com."
 
@@ -52,7 +52,7 @@ Json:
 
 **VÍ DỤ 2**
 
-Input email:
+email ứng tuyển :
 
 "Tôi là trần thị mai, muốn ứng tuyển Tester. Tôi có 1 năm kinh nghiệm kiểm thử phần mềm, biết Selenium, SQL và Jira. Email: mai@gmail.com."
 
