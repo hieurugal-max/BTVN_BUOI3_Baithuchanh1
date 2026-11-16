@@ -24,7 +24,7 @@ E – Extras ví dụ Few-shot :
 
 email ứng tuyển :
 
-"Tôi tên NGUYỄN VĂN AN, ứng tuyển Backend Developer. Tôi có 2 năm kinh nghiệm, sử dụng Python, SQL, FastAPI. SĐT 0912345678, email an@gmail.com."
+"Tôi tên NGUYỄN VĂN AN, ứng tuyển Backend Developer. Tôi có 2 năm kinh nghiệm, sử dụng Python, SQL, FastAPI. SĐT 0912345678, email : an@gmail.com."
 
 Output:
 
